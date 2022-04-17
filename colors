@@ -1,13 +1,13 @@
 [
-{"col":"#000","tai":"","so":"[sii lam]"},
-{"col":"#fff","tai":"ႇ","so":"[sii khao]"},
-{"col":"#008000","tai":"ႈ","so":"[sii kheao]"},
-{"col":"#ffff00","tai":"း","so":"[sii lurng]"},
-{"col":"#ff0000","tai":"ႉ","so":"[sii laeng]"},
-{"col":"#0000ff","tai":"ႊ","so":"[sii som]"},
-{"col":"#FFC0CB","tai":"ႊ","so":"[sii khong]"},
-{"col":"#FFA500","tai":"ႊ","so":"[sii lurn mark jok]"},
-{"col":"#ffd700","tai":"ႊ","so":"[sii kham]"},
-{"col":"#C0C0C0","tai":"ႊ","so":"[sii muun]"},
-{"col":"#800080","tai":"ႊ","so":"[sii kaam]"}
+{"col":"#000","tai":"သီလမ်","so":"[sii lam]"},
+{"col":"#fff","tai":"သီၶၢဝ်","so":"[sii khao]"},
+{"col":"#008000","tai":"သီၶဵဝ်","so":"[sii kheao]"},
+{"col":"#ffff00","tai":"သီလိူင်","so":"[sii lurng]"},
+{"col":"#ff0000","tai":"သီလႅင်","so":"[sii laeng]"},
+{"col":"#0000ff","tai":"သီသွမ်ႇ","so":"[sii som]"},
+{"col":"#FFC0CB","tai":"သီၶွင်ႇ","so":"[sii khong]"},
+{"col":"#FFA500","tai":"သီလိူင်မၢၵ်ႇၸွၵ်း","so":"[sii lurn mark jok]"},
+{"col":"#ffd700","tai":"သီၶမ်း","so":"[sii kham]"},
+{"col":"#C0C0C0","tai":"သီမူၼ်ႇ","so":"[sii muun]"},
+{"col":"#800080","tai":"သီၵမ်ႇ","so":"[sii kaam]"}
 ]
